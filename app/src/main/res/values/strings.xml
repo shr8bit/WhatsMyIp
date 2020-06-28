@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WhatsMyIp</string>
+    <string name="not_connected">WiFi not connected</string>
 </resources>
